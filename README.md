@@ -8,7 +8,7 @@ Things you may want to cover:
 * Ruby version
 
 * System dependencies
-
+git hub url - https://github.com/MikeyC24/toy_app.git
 * Configuration
 
 * Database creation
